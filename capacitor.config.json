@@ -1,0 +1,8 @@
+{
+  "appId": "io.github.danielmascena",
+  "appName": "podcast-n-books",
+  "bundledWebRuntime": false,
+  "npmClient": "yarn",
+  "webDir": "www",
+  "cordova": {}
+}
